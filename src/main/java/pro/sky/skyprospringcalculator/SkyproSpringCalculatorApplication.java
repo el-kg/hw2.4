@@ -2,7 +2,7 @@ package pro.sky.skyprospringcalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+// Калькулятор
 @SpringBootApplication
 public class SkyproSpringCalculatorApplication {
 
